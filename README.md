@@ -1,0 +1,1 @@
+This is a homework assignment in PK: create a responsive fashion site using html and css.
