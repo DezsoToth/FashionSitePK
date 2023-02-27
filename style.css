@@ -285,11 +285,11 @@ h4 {
     text-decoration: none;
     color: rgb(0, 0, 160);
     background-color: rgb(232, 239, 255);
-    transform: .3s;
+    transition: .3s;
 }
 
 .fa-brands:hover {
-    color: black;
+    color: dodgerblue;
     
 }
 
