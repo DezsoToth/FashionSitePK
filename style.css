@@ -298,11 +298,11 @@ h4 {
     justify-content: center;
     align-items: center;
     height: 2rem;
-    font-size: .6rem;
+    font-size: .8rem;
 }
 
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 768px) {
     .offer {
         padding: .4rem;
         font-size: .8rem;
