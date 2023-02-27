@@ -253,6 +253,7 @@ h4 {
 
 .message a:hover {
     background-color: rgb(232, 239, 255);
+    text-shadow: 3px 3px 8px white;
 }
 
 .up a{
@@ -272,6 +273,7 @@ h4 {
 
 .up a:hover {
     background-color: rgb(232, 239, 255);
+    color: dodgerblue;
 }
 
 .icons a {
