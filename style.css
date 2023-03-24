@@ -29,7 +29,7 @@ html {
     text-align: center;
     padding: .8rem;
     font-weight: 700;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     color: rgb(0, 0, 160);
     text-shadow: 4px 4px 8px rgba(0, 0, 160, .7);
 }
@@ -313,7 +313,7 @@ h4 {
 
     .gianni {
         padding: 2rem;
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     .navbar {
