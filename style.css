@@ -8,6 +8,7 @@
 
 html {
     min-width: 380px;
+    scroll-behavior: smooth;
 }
 
 .offer {
