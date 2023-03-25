@@ -34,6 +34,10 @@ html {
     color: rgb(0, 0, 160);
     text-shadow: 4px 4px 8px rgba(0, 0, 160, .7);
 }
+
+.fa-registered {
+    font-size: .7rem;
+}
 .navbar {
     overflow: hidden;
     
