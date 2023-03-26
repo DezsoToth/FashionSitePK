@@ -167,10 +167,10 @@ a:hover {
     height: 200px;
     clear: both;
     position: relative;
-    -webkit-transition: left 2s;
-    -moz-transition: left 2s;
-    -o-transition: left 2s;
-    transition: left 2s;
+    -webkit-transition: left 3s;
+    -moz-transition: left 3s;
+    -o-transition: left 3s;
+    transition: left 3s;
 }
 .slide {
     float: left;
