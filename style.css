@@ -105,6 +105,10 @@ html {
     justify-content: space-evenly;
 }
 
+.ugly-main-container img {
+    box-shadow: 8px 8px 15px rgb(190, 210, 255);
+}
+
 .ugly-container1,
 .ugly-container2 {
     display: flex;
