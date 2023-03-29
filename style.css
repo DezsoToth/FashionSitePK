@@ -157,6 +157,7 @@ a:hover {
 .slider-container {
     background-color: rgb(232, 239, 255);
     margin: 3rem 0;
+    box-shadow: 8px 8px 15px rgb(190, 210, 255);
     
 }
 .slider {
@@ -165,7 +166,8 @@ a:hover {
     margin: 0 auto;
     text-align: center;
     overflow: hidden;
-  }
+}
+
 .image-container {
     width: 1500px;
     background-color: pink;
