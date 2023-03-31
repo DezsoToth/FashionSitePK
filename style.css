@@ -55,6 +55,7 @@ html {
 .navbar a:hover {
     background-color: rgb(232, 239, 255);
     color: black;
+    text-shadow: 2px 2px 4px rgb(117, 117, 117);
 }
   
 .navbar a.active {
