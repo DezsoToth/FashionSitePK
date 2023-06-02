@@ -133,11 +133,11 @@ h3 {
 .ugly-container2 > a {
     text-decoration: none;
     color: black;
-    font-size: .9rem;
+    font-size: .8rem;
     margin: auto;
-    padding: .6rem;
+    padding: .5rem;
     border-radius: 5px;
-    width: 12rem;
+    width: 10rem;
     text-align: center;
     background-color: rgb(232, 239, 255);
     transition: .3s;
@@ -415,6 +415,13 @@ h4 {
 
     .ugly-container2 {
         padding-left: 3rem;
+    }
+
+    .ugly-container1 > a,
+    .ugly-container2 > a {
+        font-size: .9rem;
+        padding: .6rem;
+        width: 12rem;
     }
 
     .slider-container {
