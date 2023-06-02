@@ -349,7 +349,7 @@ h4 {
     transition: .5s;
     cursor: pointer;
     border: none;
-    
+    text-decoration: none;
   }
   
   .poweredbydtp a:hover {
