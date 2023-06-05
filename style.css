@@ -18,6 +18,9 @@ html {
     background-color: darkred;
     color: white;
     font-size: .6rem;
+    position: fixed;
+    z-index: 9;
+    width: 100%;
     
 }
 
