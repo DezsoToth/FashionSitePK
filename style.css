@@ -368,6 +368,7 @@ h4 {
 
     .navbar {
         background-color: rgb(232, 239, 255);
+        flex-direction: row;
     }
 
     .navbar a {
