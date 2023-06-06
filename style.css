@@ -42,7 +42,8 @@ html {
 
 .navbar {
     overflow: hidden;
-    
+    display: flex;
+    flex-direction: column;
 }
   
 .navbar a {
